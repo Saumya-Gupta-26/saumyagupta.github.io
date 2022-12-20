@@ -18,12 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Website still under construction! Thank you for you patience :)
+Hello! My name is Saumya Gupta. I am currently pursuing my PhD in Computer Science at Stony Brook University, where I am advised by Professor [Chao Chen](https://chaochen.github.io/). 
 
-[Google Scholar](https://scholar.google.com/citations?user=0D1_Kk0AAAAJ&hl=en&oi=ao)
+My research interests are in the areas of Computer Vision, Machine Learning, and Medical Image Analysis. 
 
-[GitHub](https://github.com/Saumya-Gupta-26)
-
-[LinkedIn](https://www.linkedin.com/in/saumya-gupta-0b48b416a/)
-
-[Twitter](https://twitter.com/saumyagupta26)
+[Google Scholar](https://scholar.google.com/citations?user=0D1_Kk0AAAAJ&hl=en&oi=ao) / [GitHub](https://github.com/Saumya-Gupta-26) / [LinkedIn](https://www.linkedin.com/in/saumya-gupta-0b48b416a/) / [Twitter](https://twitter.com/saumyagupta26)

@@ -7,6 +7,14 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<b>Course</b>: Theory of Computation (CSE303)<br>
+<b>Role</b>: Teaching Assistant<br>
+<b>Term</b>: Spring 2022<br>
+<b>University</b>: Stony Brook University <br>
+<b>Professor</b>: Eugene Stark<br>
 
-Organize your courses by years, topics, or universities, however you like!
+<b>Course</b>: Theory of Computation (CSE303)<br>
+<b>Role</b>: Teaching Assistant<br>
+<b>Term</b>: Fall 2021<br>
+<b>University</b>: Stony Brook University <br>
+<b>Professor</b>: Rezaul Chowdhury<br>
