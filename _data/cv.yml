@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Saumya Gupta
-    - name: Date of Birth
-      value: 1996
+    # - name: Date of Birth
+    #   value: 1996
     - name: Languages
       value: English (Proficient), Hindi  (Proficient), Arabic (Minimal), Japanese (Minimal)
 
