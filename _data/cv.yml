@@ -97,10 +97,11 @@
       # items:
       #   - Description 1.
       #   - Description 2.
-    - title: Medical Imaging
+    - title: Topological Data Analysis
       # items:
       #   - Description 1.
       #   - Description 2.
+    - title: Medical Imaging
 
 - title: Other Interests
   type: list
