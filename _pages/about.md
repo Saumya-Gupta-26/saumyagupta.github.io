@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student at Stony Brook University
 
 profile:
   align: right
@@ -20,4 +20,10 @@ social: true  # includes social icons at the bottom of the page
 
 Website still under construction! Thank you for you patience :)
 
-[Google Scholar](https://scholar.google.com/citations?user=0D1_Kk0AAAAJ&hl=en&oi=ao) | [GitHub](https://github.com/Saumya-Gupta-26) | [LinkedIn](https://www.linkedin.com/in/saumya-gupta-0b48b416a/) | [Twitter](https://twitter.com/saumyagupta26)
+[Google Scholar](https://scholar.google.com/citations?user=0D1_Kk0AAAAJ&hl=en&oi=ao)
+
+[GitHub](https://github.com/Saumya-Gupta-26)
+
+[LinkedIn](https://www.linkedin.com/in/saumya-gupta-0b48b416a/)
+
+[Twitter](https://twitter.com/saumyagupta26)
