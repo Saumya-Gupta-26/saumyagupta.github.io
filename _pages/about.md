@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at Stony Brook University
+subtitle: Computer Science PhD student at <a href="https://www.cs.stonybrook.edu/">Stony Brook University</a>
+
+
+
 
 profile:
   align: right
