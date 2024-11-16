@@ -12,6 +12,12 @@ nav_order: 3
 
 ***
 <h2>reviewing</h2>
+Reviewer AAAI 2025 <br>
+Reviewer ICLR 2025 <br>
+Reviewer [ECCV 2024](https://eccv.ecva.net/Conferences/2024/Reviewers) + Outstanding Reviewer Award! <br>
+Reviewer [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/ProgramCommittee) <br>
+Reviewer [ICLR 2024](https://iclr.cc/Conferences/2024/Reviewers) + Outstanding Reviewer Award! <br>
+Reviewer [NeurIPS 2024](https://neurips.cc/Conferences/2024/ProgramCommittee) <br>
 Reviewer [DALI 2023](https://dali-miccai.github.io/) <br>
 Reviewer [NeurIPS 2023](https://nips.cc/) <br>
 Reviewer [ICML 2023](https://icml.cc/Conferences/2023/Dates) <br>
