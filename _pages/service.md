@@ -13,19 +13,23 @@ nav_order: 3
 ***
 <h2>reviewing</h2>
 Reviewer AAAI 2025 <br>
-Reviewer ICLR 2025 <br>
-Reviewer [ECCV 2024](https://eccv.ecva.net/Conferences/2024/Reviewers) + Outstanding Reviewer Award! <br>
-Reviewer [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/ProgramCommittee) <br>
-Reviewer [ICLR 2024](https://iclr.cc/Conferences/2024/Reviewers) + Outstanding Reviewer Award! <br>
-Reviewer [NeurIPS 2024](https://neurips.cc/Conferences/2024/ProgramCommittee) <br>
-Reviewer [DALI 2023](https://dali-miccai.github.io/) <br>
-Reviewer [NeurIPS 2023](https://nips.cc/) <br>
-Reviewer [ICML 2023](https://icml.cc/Conferences/2023/Dates) <br>
-Reviewer [IEEE TNNLS 2023](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) <br>
-Reviewer [ISBI 2023](https://2023.biomedicalimaging.org/en/) <br>
+Reviewer ECCV [2024](https://eccv.ecva.net/Conferences/2024/Reviewers) + Outstanding Reviewer Award! <br>
+Reviewer CVPR 2025, [2024](https://cvpr.thecvf.com/Conferences/2024/ProgramCommittee) <br>
+Reviewer ICLR [2024](https://iclr.cc/Conferences/2024/Reviewers) + Outstanding Reviewer Award! <br>
+Reviewer NeurIPS [2024](https://neurips.cc/Conferences/2024/ProgramCommittee), [2023](https://neurips.cc/Conferences/2023/ProgramCommittee) <br>
+Reviewer [DALI](https://dali-miccai.github.io/) 2024 <br>
+Reviewer ICML 2025, [2024](https://icml.cc/Conferences/2023/Dates) <br>
+Reviewer [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) 2023 <br>
+Reviewer [ISBI](https://2023.biomedicalimaging.org/en/) 2023<br>
 
 ***
 <h2>teaching</h2>
+
+<b>Course</b>: Biomedical Informatics Bootcamp<br>
+<b>Role</b>: Teaching Assistant<br>
+<b>Terms</b>: <a href="https://bmi.stonybrookmedicine.edu/Bootcamp/Bootcamp-Fall-2024">Fall 2024</a>, Spring 2024, <a href="https://bmi.stonybrookmedicine.edu/bootcamp2023/overview">Fall 2023</a><br>
+<b>University</b>: Stony Brook University <br>
+
 <b>Course</b>: Theory of Computation (CSE303)<br>
 <b>Role</b>: Teaching Assistant<br>
 <b>Term</b>: Spring 2022<br>
