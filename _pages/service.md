@@ -33,11 +33,11 @@ Reviewer [ISBI](https://2023.biomedicalimaging.org/en/) 2023<br>
 <b>Course</b>: Theory of Computation (CSE303)<br>
 <b>Role</b>: Teaching Assistant<br>
 <b>Term</b>: Spring 2022<br>
-<b>University</b>: Stony Brook University <br>
 <b>Professor</b>:  <a href="http://bsd7.cs.sunysb.edu/~stark/">Eugene Stark</a> <br>
+<b>University</b>: Stony Brook University <br>
 
 <b>Course</b>: Theory of Computation (CSE303)<br>
 <b>Role</b>: Teaching Assistant<br>
 <b>Term</b>: Fall 2021<br>
-<b>University</b>: Stony Brook University <br>
 <b>Professor</b>: <a href="https://www3.cs.stonybrook.edu/~rezaul/">Rezaul Chowdhury</a> <br>
+<b>University</b>: Stony Brook University <br>
