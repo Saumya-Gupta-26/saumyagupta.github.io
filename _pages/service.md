@@ -18,7 +18,7 @@ Reviewer CVPR 2025, [2024](https://cvpr.thecvf.com/Conferences/2024/ProgramCommi
 Reviewer ICLR [2024](https://iclr.cc/Conferences/2024/Reviewers) + Outstanding Reviewer Award! <br>
 Reviewer NeurIPS [2024](https://neurips.cc/Conferences/2024/ProgramCommittee), [2023](https://neurips.cc/Conferences/2023/ProgramCommittee) <br>
 Reviewer [DALI](https://dali-miccai.github.io/) 2024 <br>
-Reviewer ICML 2025, [2024](https://icml.cc/Conferences/2023/Dates) <br>
+Reviewer ICML 2025, [2024](https://icml.cc/Conferences/2024/Reviewers) <br>
 Reviewer [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) 2023 <br>
 Reviewer [ISBI](https://2023.biomedicalimaging.org/en/) 2023<br>
 
